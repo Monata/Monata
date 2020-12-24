@@ -2,7 +2,7 @@
 ![Monata's github stats](https://github-stats-ecru.vercel.app/api?username=monata&count_private=true&theme=synthwave&show_icons=true&hide=stars)
 ![Top Langs](https://github-stats-ecru.vercel.app/api/top-langs/?username=monata&layout=compact&theme=synthwave&exclude_repo=coronavirus-tracker-cli,github-readme-stats)
 
-![Monata's wakatime stats](https://github-stats-ecru.vercel.app/api/wakatime?username=Monata&theme=synthwave)
+![Monata's wakatime stats](https://github-stats-ecru.vercel.app/api/wakatime?username=Monata&theme=synthwave&compact=true)
 
 🔭 I’m currently working on building ProfRatings
 
