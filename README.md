@@ -1,6 +1,6 @@
 Hello world 👋
 
-[![Monata's github stats](https://github-readme-stats.vercel.app/api?username=monata)](https://github.com/anuraghazra/github-readme-stats)
+![Monata's github stats](https://github-readme-stats.vercel.app/api?username=monata&count_private=true)
 
 🔭 I’m currently working on building ProfRatings
 
