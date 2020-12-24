@@ -1,7 +1,6 @@
 Hello world 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Monata&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Monata's github stats](https://github-readme-stats.vercel.app/api?username=monata)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on building ProfRatings
 
