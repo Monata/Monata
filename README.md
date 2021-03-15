@@ -3,7 +3,7 @@
 ![Top Langs](https://github-stats.monata.vercel.app/api/top-langs/?username=monata&layout=compact&theme=synthwave&exclude_repo=coronavirus-tracker-cli,github-readme-stats)
 ![Monata's wakatime stats](https://github-stats.monata.vercel.app/api/wakatime?username=Monata&theme=synthwave&layout=compact)
 
-🔭 I’m currently working on building ProfRatings with Django
+🔭 I’m currently working on building [profsrated](https://www.profsrated.com) with Django
 
 🌱 I’m currently reading Fluent Python
 
